@@ -1,0 +1,32 @@
+{
+  "Lemonade" : {
+    "Name": "Ice Cold Lemonade",
+    "Message" : "Made with fresh lemons and mint",
+    "Calories": "128",
+    "Nutritional Information": "It's 100% organic lemonade",
+    "Ingredients": "Fresh Lemons",
+    "Locations" : "123 Yellow Brick Road",
+    "Price" : "$5.69",
+    "Deals" : "Coupon 5%"
+  },
+  "Tea": {
+    "Name": "Fresh Veggie Tea",
+    "Message" : "Pure and refreshing fresh tea",
+    "Calories": "256",
+    "Nutritional Information": "It's 100% pure tea, no additives",
+    "Ingredients": "Fresh Tea Leaves",
+    "Locations" : "123 Hill Side On the West Road",
+    "Price" : "$10.45",
+    "Deals" : "Coupon 20%"
+  },
+  "Coffee": {
+    "Name": "Homemade Brew Macchiato",
+    "Message" : "Delicious blend of raw, organic cocoa beans",
+    "Calories": "500",
+    "Nutritional Information": "Pure Cocoa Late",
+    "Ingredients": "Real and organic cane sugar", 
+    "Locations" : "456 Cinderella Drive",
+    "Price" : "$2.25",
+    "Deals" : "Coupon 10%"
+  },
+  }
