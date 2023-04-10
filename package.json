@@ -19,7 +19,7 @@
     "react-native-gesture-handler": "^1.5.0",
     "react-native-parallax-scroll": "^1.0.3",
     "react-native-parallax-scroll-view": "^0.21.3",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-redash": "^8.6.0",
     "react-native-vector-icons": "^6.6.0",
     "react-native-web": "^0.11.4",
